@@ -1,0 +1,12 @@
+{
+    "make": "Apple",
+    "model": "iPhone 12 back dual wide camera 4.2mm f/1.6",
+    "width": 4032,
+    "height": 3024,
+    "projection_type": "perspective",
+    "focal_ratio": 0.7222222222222222,
+    "orientation": 6,
+    "capture_time": 1722026427.877,
+    "gps": {},
+    "camera": "v2 apple iphone 12 back dual wide camera 4.2mm f/1.6 4032 3024 perspective 0.7222"
+}

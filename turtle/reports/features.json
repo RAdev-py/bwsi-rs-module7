@@ -1,0 +1,210 @@
+{
+    "wall_time": 62.310970339999585,
+    "image_reports": [
+        {
+            "image": "IMG_3191.JPG",
+            "num_features": 4980,
+            "wall_time": 1.3008671120005602
+        },
+        {
+            "image": "IMG_3197.JPG",
+            "num_features": 4992,
+            "wall_time": 1.256716991999383
+        },
+        {
+            "image": "IMG_3184.JPG",
+            "num_features": 5029,
+            "wall_time": 1.2277447480000774
+        },
+        {
+            "image": "IMG_3203.JPG",
+            "num_features": 5198,
+            "wall_time": 1.2340571849999833
+        },
+        {
+            "image": "IMG_3210.JPG",
+            "num_features": 5068,
+            "wall_time": 1.198677623999174
+        },
+        {
+            "image": "IMG_3213.JPG",
+            "num_features": 5177,
+            "wall_time": 1.258522842000275
+        },
+        {
+            "image": "IMG_3217.JPG",
+            "num_features": 4911,
+            "wall_time": 1.2225165910003852
+        },
+        {
+            "image": "IMG_3206.JPG",
+            "num_features": 5370,
+            "wall_time": 1.1920138249997763
+        },
+        {
+            "image": "IMG_3201.JPG",
+            "num_features": 4815,
+            "wall_time": 1.1240761059998476
+        },
+        {
+            "image": "IMG_3200.JPG",
+            "num_features": 4871,
+            "wall_time": 1.2427106929999354
+        },
+        {
+            "image": "IMG_3187.JPG",
+            "num_features": 5056,
+            "wall_time": 1.1856453359996522
+        },
+        {
+            "image": "IMG_3209.JPG",
+            "num_features": 5201,
+            "wall_time": 1.260947976999887
+        },
+        {
+            "image": "IMG_3189.JPG",
+            "num_features": 5064,
+            "wall_time": 1.1876390039997204
+        },
+        {
+            "image": "IMG_3193.JPG",
+            "num_features": 5146,
+            "wall_time": 1.2642946010000742
+        },
+        {
+            "image": "IMG_3218.JPG",
+            "num_features": 4891,
+            "wall_time": 1.099662129000535
+        },
+        {
+            "image": "IMG_3214.JPG",
+            "num_features": 5340,
+            "wall_time": 1.153099821000069
+        },
+        {
+            "image": "IMG_3185.JPG",
+            "num_features": 5043,
+            "wall_time": 1.2548227269999188
+        },
+        {
+            "image": "IMG_3208.JPG",
+            "num_features": 5180,
+            "wall_time": 1.1966011389995401
+        },
+        {
+            "image": "IMG_3216.JPG",
+            "num_features": 5095,
+            "wall_time": 1.2160318749993166
+        },
+        {
+            "image": "IMG_3211.JPG",
+            "num_features": 4884,
+            "wall_time": 1.1479121120000855
+        },
+        {
+            "image": "IMG_3190.JPG",
+            "num_features": 4961,
+            "wall_time": 1.12342184299996
+        },
+        {
+            "image": "IMG_3219.JPG",
+            "num_features": 4992,
+            "wall_time": 1.1083193360000223
+        },
+        {
+            "image": "IMG_3183.JPG",
+            "num_features": 5157,
+            "wall_time": 1.2036949829998775
+        },
+        {
+            "image": "IMG_3215.JPG",
+            "num_features": 5255,
+            "wall_time": 1.2399420359997748
+        },
+        {
+            "image": "IMG_3181.JPG",
+            "num_features": 5156,
+            "wall_time": 1.2330313379998188
+        },
+        {
+            "image": "IMG_3195.JPG",
+            "num_features": 5130,
+            "wall_time": 1.1903605449997485
+        },
+        {
+            "image": "IMG_3192.JPG",
+            "num_features": 5136,
+            "wall_time": 1.1976004230000399
+        },
+        {
+            "image": "IMG_3212.JPG",
+            "num_features": 5071,
+            "wall_time": 1.234448846000305
+        },
+        {
+            "image": "IMG_3196.JPG",
+            "num_features": 5029,
+            "wall_time": 1.2408290420007688
+        },
+        {
+            "image": "IMG_3182.JPG",
+            "num_features": 5294,
+            "wall_time": 1.2796159989993612
+        },
+        {
+            "image": "IMG_3194.JPG",
+            "num_features": 5151,
+            "wall_time": 1.2673978469993017
+        },
+        {
+            "image": "IMG_3204.JPG",
+            "num_features": 5201,
+            "wall_time": 1.2145063460002348
+        },
+        {
+            "image": "IMG_3186.JPG",
+            "num_features": 4929,
+            "wall_time": 1.1926651960002346
+        },
+        {
+            "image": "IMG_3188.JPG",
+            "num_features": 5218,
+            "wall_time": 1.225053737000053
+        },
+        {
+            "image": "IMG_3199.JPG",
+            "num_features": 4908,
+            "wall_time": 1.1999876170002608
+        },
+        {
+            "image": "IMG_3180.JPG",
+            "num_features": 5073,
+            "wall_time": 1.232839704000071
+        },
+        {
+            "image": "IMG_3198.JPG",
+            "num_features": 5015,
+            "wall_time": 1.1836878190006246
+        },
+        {
+            "image": "IMG_3179.JPG",
+            "num_features": 5011,
+            "wall_time": 1.2583179170005678
+        },
+        {
+            "image": "IMG_3202.JPG",
+            "num_features": 4854,
+            "wall_time": 1.160329475999788
+        },
+        {
+            "image": "IMG_3205.JPG",
+            "num_features": 5226,
+            "wall_time": 1.3783898900001077
+        },
+        {
+            "image": "IMG_3207.JPG",
+            "num_features": 5361,
+            "wall_time": 1.2993913629998133
+        }
+    ]
+}
